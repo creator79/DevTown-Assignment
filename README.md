@@ -12,7 +12,6 @@
 - Singal Product page With Additional images change functionality
 - Cart and checkout page
 - Contact page
-- Login and Register page
 - Awesome modern minimalist UI
 - Go To Top on Page Functionality
 
@@ -28,15 +27,11 @@ For Styling
 
 1. Styled Components
 
-For login and Registration
-
-1. Auth0
 ### Links
 
 ---
 
-1. Netlify https://sheelastore.netlify.app
-2. vercel  https://sheela-ecommerce-website.vercel.app
+1. vercel  https://dev-town-assignment-mocha.vercel.app/products
 
 
 ### How to start?
